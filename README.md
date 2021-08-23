@@ -34,6 +34,8 @@ I am very grateful to be able to get to where I am today, even though there will
 
 I have a dream, I really want to have a job and work in big companies like Google, Microsoft and others, I am sure I can make that dream come true.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquarink&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 | Link | About |
 | ------ | ------ |
 | Profile | https://bit.ly/LinkPebri |

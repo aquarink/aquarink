@@ -1,52 +1,21 @@
-# Hi.. how are you guys?
+Hi... Welcome to my website, the Juri Pebrianto website. I'm currently enjoying learning ReactJS, Go-Lang, and other programming-related stuff.
 
+Oh ya, from 2014 until now, I have experience in the IT and software developer fields, I focus on Backend Developers with the longest experience with the PHP (Web) programming language, as I said above, I open myself up to new technologies about programming languages, databases and everything related to programming or software development.
 
-I am Pebri, I am currently enjoying studying Flutter. I have made several mobile apps with Flutter.
+I have a new experience for React-Js, React-Native, Go-Lang, by the way, this website juripebrianto.my.id is made with React-Js technology as the frontend and Go-Lang as the API and CMS and uses MongoDB as the database.
 
-> Until now, I have had approximately 5 years of experience in Web Programming (PHP, Java, NodeJs).
+I've made approximately 4 applications using Flutter/Dart plus Firebase, I also made the API, I made it using Codeigneter (PHP) with a MySql database.
 
-> In making applications, usually a database is needed, usually I use MySql or MariaDB, I have also used MongoDb, Redis and Firestore.
+PHP and MySql are a combination that I often use to create WEB applications or APIs because these two are the ones I usually use, but I've also run projects using Spring Boot (Java), Express (NodeJs), I do the work as I wish. from the client, from the design to the programming language.
 
-> Software or tools in performing server and network needs, I use Proxmox as virtual machine management.
+The databases that I use are also quite diverse depending on the client's wishes too, so far I have made applications using MySql, MongoDB, and Redis databases.
 
-I am very happy to learn things that enrich my knowledge, therefore, I continued my education to Master level in 2017 at STMIK ERESHA and graduated in 2019 with a GPA of 3.41, I took Masters education because it was supported by the scholarship I got, so I didn't spend any money or expense on it.
+All applications that I make usually deploy or publish at the same time, I am familiar with cPanel/WHM and also the Centos/Linux operating system that runs on a Virtual Private Server (VPS), but I still use a VPS that is generally built using Proxmox, I haven't I've used AWS, GCP and the like, due to the habit of working where the company I currently work for already has a physical server placed in the data center.
 
-```sh
-The experiences above I got during my undergraduate studies at Pamulang University which I lived from 2012 to 2016
-```
-```sh
-with a GPA of 3.10 and also in semester 4 while studying, I lived while working at the Jakarta Nanyang School
-```
-```sh
-as an IT Staff from 2014 to 2016.
-```
-than
-```sh
-In 2017 I worked in a new place at PT. Muloska Pratama (Mobiwin) to date. Here I am very happy to be given
-```
-```sh
-the opportunity to develop so that I can do a lot of exploration in terms of learning new programming languages
-```
-```sh
-and the abilities I mentioned above.
-```
-I am very grateful to be able to get to where I am today, even though there will be more great people out there and in the future, I have a principle, I must also be greater.
+In creating applications or projects, I always use GIT, either GitHub or Gitlab as a place where I and my team can work on projects together without fear of losing files or data.
 
-I have a dream, I really want to have a job and work in big companies like Google, Microsoft and others, I am sure I can make that dream come true.
+More or less the activities or whatever I do, if I have free time I usually like to travel or attend seminars/workshops/meetups related to programming or software development.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquarink&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+Thank you for taking the time to read this article, have a nice and healthy day.
 
-```mermaid
-pie
-    Things I Can
-    "PHP" : 80
-    "Flutter" : 10
-    "Java" : 10 
-```
-
-| Link | About |
-| ------ | ------ |
-| Profile | https://bit.ly/LinkPebri |
-| Article | https://waktu.my.id/ |
-
-> Note: `--Thanks`
+My Web https://juripebrianto.my.id/

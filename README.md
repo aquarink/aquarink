@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Hey there, I am Pebri, working as a Full stack Developer and lecturer. Currently, I am learning Flutter and Firebase, but I am also interested in other areas of programming, such as computer networking, infrastructure, and cloud computing. See my portofolio at https://juripebrianto.my.id</h4>
+<h4 align="left">Hey there, I am Pebri, working as a Full stack Developer and lecturer. Currently, I am learning Flutter and Firebase, but I am also interested in other areas of programming, such as computer networking, infrastructure, and cloud computing. See my portfolio at https://juripebrianto.my.id</h4>
 
 ###
 
